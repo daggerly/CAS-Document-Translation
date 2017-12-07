@@ -4,4 +4,4 @@
 PS: 我是按照页面右边的`Tables of Contents`里的顺序进行翻译的。  
 * ### Tables of Contents  
   * #### 规划  
-    * ##### [架构](Architecture.md)
+    * ##### [架构](cas-documentation/planning/Architecture.md)
