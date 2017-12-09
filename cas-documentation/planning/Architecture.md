@@ -90,3 +90,5 @@ CAS也严重依赖[Spring Boot](http://projects.spring.io/spring-boot/),
 Spring Boot允许Spring平台和第三方库尽可能不使用XML配置来创建独立的web应用。
 Spring Boot允许CAS隐藏许多内部组件的复杂性和它们的配置,取而代之的是提供了能简单和自动配置运行中
 的应用环境,而不需要过多人工干涉的自动配置模块。
+
+[返回目录](../../README.md)
