@@ -1,3 +1,5 @@
+> 版本5.2
+
 # 架构
 ![CAS架构](../../pic/cas-documenttation/planning/architecture/cas_architecture.png)
 
