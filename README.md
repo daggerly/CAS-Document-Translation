@@ -9,3 +9,4 @@
 * ### Tables of Contents  
   * #### 规划  
     * ##### [架构](cas-documentation/planning/Architecture.md)
+    * ##### [准备开始](cas-documentation/planning/Getting-Started.md)
