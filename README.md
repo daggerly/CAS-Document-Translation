@@ -10,3 +10,4 @@
   * #### 规划  
     * ##### [架构](cas-documentation/planning/Architecture.md)
     * ##### [准备开始](cas-documentation/planning/Getting-Started.md)
+    * ##### [安全性指南](cas-documentation/planning/Security-Guide.md)
