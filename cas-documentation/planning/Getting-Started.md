@@ -9,7 +9,7 @@
 
 在部署前对你想要的用例和需求创建文档,目录和分析非常重要。
 常见的的趋势,实践和模式也许已经解决了你现在面临的问题, 为了学习到这些,
-请和[CAS 社区](/cas/Support.html)讨论和分享你的想法。
+请和[CAS 社区](https://apereo.github.io//cas/Support.html)讨论和分享你的想法。
 
 
 <div class="alert alert-warning"><strong>KISS原则(Keep it simple, stupid)</strong><p>
@@ -71,7 +71,7 @@ CAS社区一起来一劳永逸地解决问题。
 ## 报错
 
 对你遇到的问题[报错指南](../installation/Troubleshooting-Guide.html)也许有一些答案。
-该指南试图描述关于报错和诊断的有效策略。你也可以从[CAS社区](/cas/Mailing-Lists.html)
+该指南试图描述关于报错和诊断的有效策略。你也可以从[CAS社区](https://apereo.github.io//cas/Mailing-Lists.html)
 寻求援助。
 
 [返回目录](../../README.md)
