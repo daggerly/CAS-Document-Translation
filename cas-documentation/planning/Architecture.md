@@ -10,7 +10,7 @@ CAS系统由服务器和客户端组成,它们之间以多种协议通信。
 ### CAS服务器
 CAS服务器是构建在Spring框架上的Java servlet, 其主要职责是认证用户以及通过下发和
 验证票据(ticket)进行有CAS功能服务的授权访问,这些服务通常称为CAS客户端。
-当服务器下发一个票据获取票据(ticket-granting ticket, TGT)给成功登录的用户时就
+当服务器下发一个票据授予票据(ticket-granting ticket, TGT)给成功登录的用户时就
 产生了一个单点登录会话(SSO session)。当浏览器带着作为token的TGT重定向用户的请求时,
 一个服务票据(service ticket, ST)被分发给一个服务。这个ST随后被CAS服务器通过
 后台通信验证。
